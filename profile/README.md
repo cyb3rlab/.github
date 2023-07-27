@@ -1,4 +1,4 @@
-![Research Directions](lab_research_directions.png) 
+![Research Directions](profile/lab_research_directions.png) 
 
 # Cybersecurity Lab @ JAIST
 
